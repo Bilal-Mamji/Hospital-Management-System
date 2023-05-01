@@ -1,0 +1,5 @@
+Admin:
+Password : 12345
+
+Doctor: 
+Three Digit Code: 786

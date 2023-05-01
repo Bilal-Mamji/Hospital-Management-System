@@ -1,0 +1,5 @@
+Sadiq        40      male           MBBS             7            Surgeon        Karachi       03002432442        35800 
+
+Ali         35       male           PHD             10          Neurologist      karachi       03423423424        19169 
+
+doc1        40      male           MBBS             5          Cardiologist       Islamabad       034324243432     32500 
